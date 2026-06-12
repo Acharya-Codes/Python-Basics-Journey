@@ -1,5 +1,8 @@
 for x in range(3):
-    print(x)
+    for y in range(1,10):
+        print(y,end=" ")
+    print()
+
 
     
         
