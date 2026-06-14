@@ -6,7 +6,7 @@ def add(*args):
 print(add(1,2,3,4,5,6))
 
 def name(*kwargs):
-    for kwarg in kwargs:
+    for kwarg in kwargs: #kwargs = Allows us to use multiple key arguements  and we can change the name similar to args
         tot_name=kwarg
     return tot_name
 print("Acharya","N")
