@@ -17,7 +17,8 @@ def gveamt(row,bet):
     else:
         print("Sorry broh u lost")
         return 0
-                
+        
+              
                   
            
 def main():
