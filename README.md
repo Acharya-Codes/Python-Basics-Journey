@@ -82,13 +82,13 @@ Some applications and experiments included in this repository:
 * ## Screenshots
 
 ### Weather App
-![Weather App](screenshots/Weather_App.png)
+![Weather App](Screenshots/Weather_App.png)
 
 ### StopWatch
-![StopWatch](screenshots/StopWatch.png)
+![StopWatch](Screenshots/StopWatch.png)
 
 ### Digital Clock
-![Weather App](screenshots/DigitalClock.png)
+![Weather App](Screenshots/DigitalClock.png)
 
 ## 👨‍💻 Author
 
