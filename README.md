@@ -61,14 +61,6 @@ Some applications and experiments included in this repository:
 * VS Code
 * Git & GitHub
 
-## 🎯 Learning Goals
-
-* Strengthen Python fundamentals
-* Learn Data Structures & Algorithms
-* Explore Data Science and Machine Learning
-* Build larger Python applications
-* Contribute to open-source projects
-
 ## 📈 Progress
 
 ✅ Python Basics Completed
